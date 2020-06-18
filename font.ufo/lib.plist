@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>public.glyphOrder</key>
+	<array>
+		<string>uni0020</string>
+		<string>uni0041</string>
+		<string>uni0045</string>
+		<string>uni0046</string>
+		<string>uni0048</string>
+		<string>uni0049</string>
+		<string>uni004B</string>
+		<string>uni004C</string>
+		<string>uni004D</string>
+		<string>uni004E</string>
+		<string>uni0054</string>
+		<string>uni0056</string>
+		<string>uni0057</string>
+		<string>uni0058</string>
+		<string>uni0059</string>
+		<string>uni005A</string>
+		<string>uni0061</string>
+		<string>uni0062</string>
+		<string>uni0063</string>
+		<string>uni0064</string>
+		<string>uni0069</string>
+		<string>uni006B</string>
+		<string>uni006C</string>
+		<string>uni0074</string>
+		<string>uni0075</string>
+		<string>uni0076</string>
+		<string>uni0077</string>
+		<string>uni0078</string>
+		<string>uni0079</string>
+		<string>uni007A</string>
+	</array>
+</dict>
+</plist>

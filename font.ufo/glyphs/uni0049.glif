@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0049" format="1">
+	<advance width="520"/>
+	<unicode hex="0049"/>
+	<outline>
+<contour>
+<point x="310" y="100" type="line"/>
+<point x="521" y="100" type="line"/>
+<point x="521" y="-1" type="line"/>
+<point x="1" y="-1" type="line"/>
+<point x="1" y="100" type="line"/>
+<point x="210" y="100" type="line"/>
+<point x="210" y="650" type="line"/>
+<point x="0" y="650" type="line"/>
+<point x="0" y="750" type="line"/>
+<point x="520" y="750" type="line"/>
+<point x="520" y="650" type="line"/>
+<point x="310" y="650" type="line"/>
+</contour>
+<contour>
+<point x="510" y="660" type="line"/>
+<point x="510" y="740" type="line"/>
+<point x="310" y="740" type="line"/>
+<point x="310" y="660" type="line"/>
+</contour>
+<contour>
+<point x="300" y="740" type="line"/>
+<point x="220" y="740" type="line"/>
+<point x="220" y="660" type="line"/>
+<point x="300" y="660" type="line"/>
+</contour>
+<contour>
+<point x="10" y="660" type="line"/>
+<point x="210" y="660" type="line"/>
+<point x="210" y="740" type="line"/>
+<point x="10" y="740" type="line"/>
+</contour>
+<contour>
+<point x="220" y="650" type="line"/>
+<point x="220" y="100" type="line"/>
+<point x="300" y="100" type="line"/>
+<point x="300" y="650" type="line"/>
+</contour>
+<contour>
+<point x="220" y="10" type="line"/>
+<point x="300" y="10" type="line"/>
+<point x="300" y="89" type="line"/>
+<point x="220" y="89" type="line"/>
+</contour>
+<contour>
+<point x="11" y="89" type="line"/>
+<point x="11" y="9" type="line"/>
+<point x="210" y="9" type="line"/>
+<point x="210" y="89" type="line"/>
+</contour>
+<contour>
+<point x="510" y="10" type="line"/>
+<point x="510" y="90" type="line"/>
+<point x="310" y="90" type="line"/>
+<point x="310" y="10" type="line"/>
+</contour>
+</outline>
+<lib>
+<dict>
+<key>com.typemytype.robofont.layerData</key>
+<dict>
+</dict>
+</dict>
+</lib>
+</glyph>

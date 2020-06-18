@@ -1,0 +1,6 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+table head {
+	FontRevision 1.186;
+} head;

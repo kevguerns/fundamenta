@@ -1,0 +1,3 @@
+[Test Font 1]
+f=Test
+s=Regular
